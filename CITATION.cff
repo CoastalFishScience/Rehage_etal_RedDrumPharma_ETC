@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data for Rehage et al. "A Multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery."
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Jennifer S. Rehage
+  - given-names: Nicholas A. Castillo
+  - given-names: Andy Distrubell
+  - given-names: Shakira Trebelsi
+  - given-names: Rolando O. Santos
+  - given-names: Ryan J. Rezek
+  - given-names: Daniel Cervany
+  - given-names: Aaron J. Adams
+  - given-names: Jerker Fick
+  - given-names: Tomas Brodin
+  - given-names: W. Ryan James
