@@ -1,6 +1,4 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15634279.svg)](https://doi.org/10.5281/zenodo.15634279)
-# Rehage_etal_ICES_JMS
-
 
 Data for Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (*in revision*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery. Environmental Toxicology and Chemistry, <https://doi.org/10.1093/etojnl/vgaf125>
 
